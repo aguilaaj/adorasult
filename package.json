@@ -1,0 +1,14 @@
+{
+  "name": "adorasult",
+  "version": "0.0.0",
+  "description": "Adorable insult generator because weekends. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ariel Aguilar",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^5.8.20"
+  }
+}
