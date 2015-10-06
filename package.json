@@ -1,6 +1,6 @@
 {
   "name": "adorasult",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Adorable insult generator because weekends. ",
   "main": "index.js",
   "scripts": {
